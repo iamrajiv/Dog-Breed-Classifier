@@ -8,13 +8,7 @@
 
 In this project, I have learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human face, the code will identify the resembling dog breed.
 
-Along with exploring state-of-the-art CNN models for classification, I have made important design decisions about the user experience for the app. By completing this lab, I have demonstrated my understanding of the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.
-
-<blockquote><p><i>
-Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
-<br />
-Your imperfect solution will nonetheless create a fun user experience.
-</i></p></blockquote>
+Along with exploring state-of-the-art CNN models for classification, I have made important design decisions about the user experience for the app. By completing this project, I have demonstrated my understanding of the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.
 
 <a href="https://mybinder.org/v2/gh/iamrajiv/Dog-Breed-Classifier/master"><img align="center" src="https://mybinder.org/static/logo.svg" /></a>
 
