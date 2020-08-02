@@ -10,7 +10,7 @@ In this project, I have learned how to build a pipeline to process real-world, u
 
 Along with exploring state-of-the-art CNN models for classification, I have made important design decisions about the user experience for the app. By completing this project, I have demonstrated my understanding of the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.
 
-<a href="https://mybinder.org/v2/gh/iamrajiv/Dog-Breed-Classifier/master"><img align="center" src="https://mybinder.org/static/logo.svg" /></a>
+<a href="https://mybinder.org/v2/gh/iamrajiv/Dog-Breed-Classifier/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="220" /></a>
 
 ## License
 
