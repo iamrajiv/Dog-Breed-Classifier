@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adec8b9_cnn-project/cnn-project.jpg" height="300" width="300" />
+<img src="assets/Dog-Breed-Classifier.jpg" height="300" width="300" />
 <br />
 <h1>Dog-Breed Classifier</h1>
 </div>
