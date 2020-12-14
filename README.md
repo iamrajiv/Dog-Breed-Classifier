@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/Dog-Breed-Classifier.jpg" width="300" />
+<img src="assets/dog-breed-classifier.jpg" width="300" />
 <br />
 <h1>Dog-Breed Classifier</h1>
 </div>
